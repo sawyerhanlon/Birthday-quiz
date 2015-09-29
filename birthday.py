@@ -134,32 +134,32 @@ if year>=2000 and month == "August":
     
 #Fall Months
 if year<=1979 and month == "September":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, You are a fall baby of the stone age.".format(name))
 if year<=1979 and day!=31 and month == "October":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, You are a fall baby of the stone age.".format(name))
 if year<=1979 and month == "November":
     print("{0}, You are a winter baby of the stone age.".format(name))
 
 if year>=1980 and year<=1989 and month == "September":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, You are a fall baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and day!=31 and month == "October":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, You are a fall baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "November":
     print("{0}, You are a winter baby of the eighties.".format(name))
     
 if year>=1990 and year<=1999 and month == "September":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, You are a fall baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and day!=31  and month == "October":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, You are a fall baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "November":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, You are a fall baby of the nineties.".format(name))
     
 if year>=2000 and month == "September":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, You are a fall baby of the two thousands.".format(name))
 if year>=2000 and day!=31 and month == "October":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, You are a fall baby of the two thousands.".format(name))
 if year>=2000 and month == "November":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, You are a fall baby of the two thousands.".format(name))
 
 
     
