@@ -37,10 +37,10 @@ todaymonth = datetime.today().month
 todaydate = datetime.today().day
 
 name = input("Hello, what is your name? ")
-month = float(input("Hi "+name+", what is the name of the month you were born in? "))
-year = float(int(input("And what year were you born in, "+name+"? ")))
-day = float(int(input("And the day? ")))
+month = input("Hi "+name+", what is the name of the month you were born in? ")
+year = int(input("And what year were you born in, "+name+"? "))
+day = int(input("And the day? "))
 
-if month == "December":
-    print("You are a winter baby ")
+if year>=1980 and year<=1989 and month == "December":
+    print("{0} You are a winter baby of the eighties").format(name)
 
