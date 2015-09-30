@@ -41,9 +41,13 @@ month = input("Hi "+name+", what is the name of the month you were born in? ")
 year = int(input("And what year were you born in, "+name+"? "))
 day = int(input("And the day? "))
 
+#B-Day
+if month==todaymonth and day==todaydate:
+    print("Happy Birthday!")
+
 #Halloween
-#if day=31 and month == "October":
-    #print("Your birthday is Halloween")
+if day==31 and month == "October":
+    print("Your were born on Halloween")
 
 #Winter months
 if year<=1979 and month == "December":
