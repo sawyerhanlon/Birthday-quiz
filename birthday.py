@@ -45,7 +45,7 @@ day = int(input("And the day? "))
 
 #B-Day
 if month==month2 and day==todaydate:
-    print("Happy Birthday!")
+    print("Happy birthday!")
 
 #Halloween
 elif day==31 and month=="October":
