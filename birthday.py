@@ -112,11 +112,11 @@ else:
         
     #Summer Months
     if year<=1979 and month == "June":
-        print("{0}, you are a spring baby of the stone age.".format(name))
+        print("{0}, you are a summer baby of the stone age.".format(name))
     if year<=1979 and month == "July":
-        print("{0}, you are a spring baby of the stone age.".format(name))
+        print("{0}, you are a summer baby of the stone age.".format(name))
     if year<=1979 and month == "August":
-        print("{0}, you are a spring baby of the stone age.".format(name))
+        print("{0}, you are a summer baby of the stone age.".format(name))
     
     if year>=1980 and year<=1989 and month == "June":
         print("{0}, you are a summer baby of the eighties.".format(name))
