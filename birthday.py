@@ -53,119 +53,119 @@ if day==31 and month=="October":
 
 #Winter months
 if year<=1979 and month == "December":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, you are a winter baby of the stone age.".format(name))
 if year<=1979 and month == "January":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, you are a winter baby of the stone age.".format(name))
 if year<=1979 and month == "February":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, you are a winter baby of the stone age.".format(name))
 
 if year>=1980 and year<=1989 and month == "December":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, you are a winter baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "January":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, you are a winter baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "February":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, you are a winter baby of the eighties.".format(name))
     
 if year>=1990 and year<=1999 and month == "December":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, you are a winter baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "January":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, you are a winter baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "February":
-    print("{0}, You are a winter baby of the nineties.".format(name))
+    print("{0}, you are a winter baby of the nineties.".format(name))
     
 if year>=2000 and month == "December":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, you are a winter baby of the two thousands.".format(name))
 if year>=2000 and month == "January":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, you are a winter baby of the two thousands.".format(name))
 if year>=2000 and month == "February":
-    print("{0}, You are a winter baby of the two thousands.".format(name))
+    print("{0}, you are a winter baby of the two thousands.".format(name))
 
 #Spring months
 if year<=1979 and month == "March":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 if year<=1979 and month == "April":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 if year<=1979 and month == "May":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 
 if year>=1980 and year<=1989 and month == "March":
-    print("{0}, You are a spring baby of the eighties.".format(name))
+    print("{0}, you are a spring baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "April":
-    print("{0}, You are a spring baby of the eighties.".format(name))
+    print("{0}, you are a spring baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "May":
-    print("{0}, You are a spring baby of the eighties.".format(name))
+    print("{0}, you are a spring baby of the eighties.".format(name))
 
 if year>=1990 and year<=1999 and month == "March":
-    print("{0}, You are a spring baby of the nineties.".format(name))
+    print("{0}, you are a spring baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "April":
-    print("{0}, You are a spring baby of the nineties.".format(name))
+    print("{0}, you are a spring baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "May":
-    print("{0}, You are a spring baby of the nineties.".format(name))
+    print("{0}, you are a spring baby of the nineties.".format(name))
 
 if year>=2000 and month == "March":
-    print("{0}, You are a spring baby of the two thousands.".format(name))
+    print("{0}, you are a spring baby of the two thousands.".format(name))
 if year>=2000 and month == "April":
-    print("{0}, You are a spring baby of the two thousands.".format(name))
+    print("{0}, you are a spring baby of the two thousands.".format(name))
 if year>=2000 and month == "May":
-    print("{0}, You are a spring baby of the two thousands.".format(name))
+    print("{0}, you are a spring baby of the two thousands.".format(name))
     
 #Summer Months
 if year<=1979 and month == "June":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 if year<=1979 and month == "July":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 if year<=1979 and month == "August":
-    print("{0}, You are a spring baby of the stone age.".format(name))
+    print("{0}, you are a spring baby of the stone age.".format(name))
 
 if year>=1980 and year<=1989 and month == "June":
-    print("{0}, You are a summer baby of the eighties.".format(name))
+    print("{0}, you are a summer baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "July":
-    print("{0}, You are a summer baby of the eighties.".format(name))
+    print("{0}, you are a summer baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "August":
-    print("{0}, You are a summer baby of the eighties.".format(name))
+    print("{0}, you are a summer baby of the eighties.".format(name))
 
 if year>=1990 and year<=1999 and month == "June":
-    print("{0}, You are a summer baby of the nineties.".format(name))
+    print("{0}, you are a summer baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "July":
-    print("{0}, You are a summer baby of the nineties.".format(name))
+    print("{0}, you are a summer baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "August":
-    print("{0}, You are a summer baby of the nineties.".format(name))
+    print("{0}, you are a summer baby of the nineties.".format(name))
 
 if year>=2000 and month == "June":
-    print("{0}, You are a summer baby of the two thousands.".format(name))
+    print("{0}, you are a summer baby of the two thousands.".format(name))
 if year>=2000 and month == "July":
-    print("{0}, You are a summer baby of the two thousands.".format(name))
+    print("{0}, you are a summer baby of the two thousands.".format(name))
 if year>=2000 and month == "August":
-    print("{0}, You are a summer baby of the two thousands.".format(name))
+    print("{0}, you are a summer baby of the two thousands.".format(name))
     
 #Fall Months
 if year<=1979 and month == "September":
-    print("{0}, You are a fall baby of the stone age.".format(name))
+    print("{0}, you are a fall baby of the stone age.".format(name))
 if year<=1979 and month == "October":
-    print("{0}, You are a fall baby of the stone age.".format(name))
+    print("{0}, you are a fall baby of the stone age.".format(name))
 if year<=1979 and month == "November":
-    print("{0}, You are a winter baby of the stone age.".format(name))
+    print("{0}, you are a winter baby of the stone age.".format(name))
 
 if year>=1980 and year<=1989 and month == "September":
-    print("{0}, You are a fall baby of the eighties.".format(name))
+    print("{0}, you are a fall baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and day and month == "October":
-    print("{0}, You are a fall baby of the eighties.".format(name))
+    print("{0}, you are a fall baby of the eighties.".format(name))
 if year>=1980 and year<=1989 and month == "November":
-    print("{0}, You are a winter baby of the eighties.".format(name))
+    print("{0}, you are a winter baby of the eighties.".format(name))
     
 if year>=1990 and year<=1999 and month == "September":
-    print("{0}, You are a fall baby of the nineties.".format(name))
+    print("{0}, you are a fall baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "October":
-    print("{0}, You are a fall baby of the nineties.".format(name))
+    print("{0}, you are a fall baby of the nineties.".format(name))
 if year>=1990 and year<=1999 and month == "November":
-    print("{0}, You are a fall baby of the nineties.".format(name))
+    print("{0}, you are a fall baby of the nineties.".format(name))
     
 if year>=2000 and month == "September":
-    print("{0}, You are a fall baby of the two thousands.".format(name))
+    print("{0}, you are a fall baby of the two thousands.".format(name))
 if year>=2000 and month == "October":
-    print("{0}, You are a fall baby of the two thousands.".format(name))
+    print("{0}, you are a fall baby of the two thousands.".format(name))
 if year>=2000 and month == "November":
-    print("{0}, You are a fall baby of the two thousands.".format(name))
+    print("{0}, you are a fall baby of the two thousands.".format(name))
 
 
     
