@@ -49,7 +49,7 @@ if month==month2 and day==todaydate:
 
 #Halloween
 elif day==31 and month=="October":
-    print("Your were born on Halloween!")
+    print("You were born on Halloween!")
 
 #Winter months
 else:
